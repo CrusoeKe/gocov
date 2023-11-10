@@ -32,8 +32,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/axw/gocov"
-	"github.com/axw/gocov/gocovutil"
+	"github.com/khs/gocov"
+	"github.com/khs/gocov/gocovutil"
 	"golang.org/x/tools/cover"
 )
 
