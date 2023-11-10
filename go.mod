@@ -1,8 +1,8 @@
 module github.com/khs/gocov
 
-go 1.12
+go 1.16
 
 require (
-	github.com/stretchr/testify v1.7.1
-	golang.org/x/tools v0.0.0-20190617190820-da514acc4774
+	github.com/stretchr/testify v1.8.4
+	golang.org/x/tools v0.15.0
 )
