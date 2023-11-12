@@ -1,4 +1,4 @@
-module github.com/khs/gocov
+module github.com/CrusoeKe/gocov
 
 go 1.16
 

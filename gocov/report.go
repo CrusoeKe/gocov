@@ -32,7 +32,7 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/khs/gocov"
+	"github.com/CrusoeKe/gocov"
 )
 
 type report struct {

@@ -6,7 +6,7 @@ Coverage reporting tool for The Go Programming Language
 
 ## Installation
 
-```go install github.com/khs/gocov/gocov@latest```
+```go install github.com/CrusoeKe/gocov/gocov@latest```
 
 ## Usage
 
